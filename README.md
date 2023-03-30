@@ -76,11 +76,11 @@ xnor (y7,a,b);
 endmodule;
 ```
 ## Logic symbol & Truthtable
-![output](logic.jpg)
-![output1](Truth.png)
+![ou2](logic.jpg)
+![ou](Truth.png)
 
 ## RTL realization
-![output2](out.png)
+![img](out.png)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
